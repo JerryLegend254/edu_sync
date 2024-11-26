@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EduSync</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+    <string name="try_again">Try again</string>
+    <string name="ok">OK</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+
+
+    // Notifications
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="request_notification_permission">Request permission</string>
+    <string name="notification_permission_title">Notification permission</string>
+    <string name="notification_permission_description">The notification permission is important for this app. Please grant the permission.</string>
+    <string name="notification_permission_settings">The notification permission is important for this app. Please navigate to your device settings and enable notifications for Make it So.</string>
+</resources>
